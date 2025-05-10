@@ -1,0 +1,55 @@
+{
+  "metrics": [
+    {
+      "title": "Registered Facilities",
+      "value": "0",
+      "description": ""
+    },
+    {
+      "title": "Active Facilities",
+      "value": "75",
+      "description": "Competition Rate"
+    },
+    {
+      "title": "Completion Rate",
+      "value": "98",
+      "description": "Expired Products"
+    },
+    {
+      "title": "Expired Products",
+      "value": "5",
+      "description": "Total Recalled"
+    },
+    {
+      "title": "Total Recalled",
+      "value": "25",
+      "description": "Total Recalled"
+    }
+  ],
+  "shipments": [
+    {
+      "sno": 1,
+      "drugName": "Corssin",
+      "sscc": "(00)8378182739872817371",
+      "batchId": "739287",
+      "qty": "10,000",
+      "date": "01/02/2025"
+    },
+    {
+      "sno": 2,
+      "drugName": "Brufen",
+      "sscc": "(03)000057246748732268",
+      "batchId": "516234",
+      "qty": "3,300",
+      "date": "08/01/2025"
+    },
+    {
+      "sno": 3,
+      "drugName": "XYZ",
+      "sscc": "(01)0000839183710673611",
+      "batchId": "7261762",
+      "qty": "7,2819",
+      "date": "05/02/2025"
+    }
+  ]
+}

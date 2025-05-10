@@ -1,0 +1,11 @@
+[
+  { "name": "Dashboard", "href": "/dashboard", "icon": "dashboard" },
+  { "name": "Products Catalogue", "href": "/products", "icon": "inventory" },
+  { "name": "Orders", "href": "/orders", "icon": "orders" },
+  { "name": "Compliance", "href": "/compliance", "icon": "compliance" },
+  { "name": "CPAs", "href": "/cpa", "icon": "cpa" },
+  { "name": "Audit & Compliance", "href": "/audit", "icon": "audit" },
+  { "name": "Analytics", "href": "/analytics", "icon": "analytics" },
+  { "name": "Settings", "href": "/settings", "icon": "settings" },
+  { "name": "Logs", "href": "/logs", "icon": "logs" }
+]
